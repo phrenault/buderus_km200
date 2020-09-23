@@ -1,0 +1,3 @@
+service;short_text;long_text
+/system;sys kurz;sys lang
+/system/appliance/CHpumpModulation;sys 3 kurz;sys 3 lang
